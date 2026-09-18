@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Murtaza 👋
 
-<!--
-**Murtaza-Zaman/Murtaza-Zaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack JavaScript Developer
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build scalable web applications using:
+
+- React
+- TypeScript
+- Node.js
+- MongoDB
+
+Currently contributing to open source.
+
+## Tech Stack
+
+Frontend:
+React
+Next.js
+TypeScript
+
+Backend:
+Node.js
+Express
+
+Database:
+MongoDB
+PostgreSQL
+
+## Open Source Goals
+
+Contributing to:
+- Rocket.Chat
+- Joplin
+
+## Projects
+
+🚀 Architex CLI
+⚡ SaaS Platform
+🤖 AI Applications
