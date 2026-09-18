@@ -169,7 +169,7 @@ Goals:
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/murtazazaman/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
