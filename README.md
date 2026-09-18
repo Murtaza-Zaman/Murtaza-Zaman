@@ -1,41 +1,102 @@
-# Hi, I'm Murtaza 👋
+# Hi, I'm Murtaza Zaman 👋
 
-Full Stack JavaScript Developer
+## Full Stack JavaScript Developer | MERN Stack | Open Source Contributor
 
-## About Me
+I build scalable web applications using modern JavaScript technologies.
 
-I build scalable web applications using:
+Currently focusing on:
+- Open Source Contributions
+- React Ecosystem
+- Node.js Backend Development
+- Developer Tools
 
-- React
-- TypeScript
-- Node.js
-- MongoDB
 
-Currently contributing to open source.
+## 🚀 About Me
 
-## Tech Stack
+- 💻 MERN Stack Developer
+- ⚛️ React + TypeScript enthusiast
+- 🟢 Node.js backend developer
+- 🌱 Currently exploring large-scale open source projects
+- 🎯 Preparing for Google Summer of Code (GSoC)
 
-Frontend:
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+React.js  
+Next.js  
+TypeScript  
+JavaScript  
+Tailwind CSS  
+
+
+### Backend
+
+Node.js  
+Express.js  
+REST APIs  
+MongoDB  
+PostgreSQL  
+
+
+### Tools
+
+Git  
+Docker  
+Linux  
+GitHub Actions  
+
+
+## ⭐ Featured Projects
+
+
+### 🚀 Architex CLI
+
+Production-ready React + Vite application scaffolding tool.
+
+Features:
+- Feature-based architecture
+- Automatic setup
+- Developer productivity improvements
+
+Tech:
+React | Vite | JavaScript
+
+
+### 💬 MERN Application
+
+A full-stack application built with:
+
 React
-Next.js
-TypeScript
-
-Backend:
 Node.js
 Express
-
-Database:
 MongoDB
-PostgreSQL
 
-## Open Source Goals
 
-Contributing to:
+## 🌍 Open Source Goals
+
+Currently looking to contribute to:
+
 - Rocket.Chat
 - Joplin
+- JavaScript ecosystem projects
 
-## Projects
 
-🚀 Architex CLI
-⚡ SaaS Platform
-🤖 AI Applications
+## 📊 GitHub Stats
+
+![Murtaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murtaza-Zaman&show_icons=true)
+
+
+## 📫 Connect With Me
+
+GitHub:
+https://github.com/Murtaza-Zaman
+
+LinkedIn:
+YOUR_LINKEDIN
+
+
+---
+
+⭐ Always learning, building, and contributing.
