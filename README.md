@@ -148,18 +148,6 @@ Goals:
 </p>
 
 
----
-
-# 🐍 Contribution Graph
-
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Murtaza-Zaman/Murtaza-Zaman/output/github-contribution-grid-snake.svg" />
-</p>
-
-
----
-
 # 🤝 Connect With Me
 
 
